@@ -1,13 +1,1 @@
 # Toxic-Comment-Detection
-
-
-
-
-
-
-
-
-
-
-
-
